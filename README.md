@@ -1,6 +1,6 @@
 # 👩‍💻 Ayesha Yasin
 
-Hi there! I'm Ayesha — a passionate Master of Information Technology (Cybersecurity major) student at QUT, aspiring to build a career in digital security and privacy.
+Hi there! I'm Ayesha a passionate Master of Information Technology (Cybersecurity major) student at QUT, aspiring to build a career in digital security and privacy.
 
 🔐 I care deeply about making technology safer, smarter, and more inclusive. My journey spans across academic research, real-world risk engine design, and active community involvement.
 
@@ -15,7 +15,7 @@ Hi there! I'm Ayesha — a passionate Master of Information Technology (Cybersec
   Co-authored a published paper on international cyber law and write AI-focused blog content for [AI Business Brains](https://aibusinessbrains.com/).
 
 - 🌍 **Community Engagement**  
-  I'm a [ACS Youth Tech Ambassador](https://www.acs.org.au) and an admin at FAANGPath’s 6K+ Discord community — empowering students with career resources and tech exposure.
+  I'm a [ACS Youth Tech Ambassador](https://www.acs.org.au) — empowering students with career resources and tech exposure.
 
 ---
 
